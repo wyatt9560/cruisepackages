@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <h1>Last-Minute Cruise Deals: How to Find the Best Offers</h1>
-    <p>Planning a cruise at the last minute? You’re in luck! <a href="https://www.getgotravels.com/cruise-packages">Last-minute cruise deals</a>S offer significant savings, allowing you to enjoy luxury travel for less. Here’s everything you need to know about scoring the best deals before setting sail.</p>
+    <p>Planning a cruise at the last minute? You’re in luck! <a href="https://www.getgotravels.com/cruise-packages">Last-minute cruise deals</a> offer significant savings, allowing you to enjoy luxury travel for less. Here’s everything you need to know about scoring the best deals before setting sail.</p>
     
     <h2>Why Book a Last-Minute Cruise?</h2>
     <ul>
